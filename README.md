@@ -1,6 +1,6 @@
 # Insure Landing Page
 
-Landing page desenvolvida para completar o desafio da [https://www.frontendmentor.io/](hhttps://www.frontendmentor.io/challenges/insure-landing-page-uTU68JV8).
+Landing page desenvolvida para completar o desafio da [https://www.frontendmentor.io/](https://www.frontendmentor.io/challenges/insure-landing-page-uTU68JV8).
 
 **Tecnologias utilizadas:**
 
